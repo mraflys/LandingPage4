@@ -1,0 +1,193 @@
+@import url(https://fonts.googleapis.com/css?family=Exo:100,200,400);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:700,400,300);
+@import url(https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;700;900&family=Open+Sans&display=swap);
+
+li{
+    font-family: 'Exo';
+    font-weight: 700;
+}
+
+.carousel-caption{
+    color: white;
+}
+
+h3{
+    font-family: 'Source Sans Pro';
+    font-weight: 700;
+}
+
+h2{
+    font-family: 'Source Sans Pro';
+    font-weight: 700;
+    margin-top: 30px;
+}
+
+p{
+    font-family: 'Source Sans Pro';
+    font-weight: 400;
+}
+a#logo{
+    border: 0;
+    margin-right: 10px;
+    height: 33;
+    width: 59px;
+}
+a{
+    text-decoration: none;
+    font-family: 'Exo';
+    font-weight: 700;
+}
+
+a.login{
+    text-decoration: none;
+    font-family: 'Exo';
+    font-weight: 700;
+    color: rgba(255, 255, 255, 0.753);
+}
+
+a.login:hover{
+    color: rgba(255, 255, 255, 0.219);
+}
+
+a.link {
+    text-decoration: none;
+    font-family: 'Exo';
+    font-weight: 700;
+    color: black;
+    
+  }
+
+  a.link:hover {
+    color: rgba(36, 36, 255, 0.74);
+  }
+  
+.isiitem{
+    list-style:none;
+    color: black;
+    display:inline;
+    font-family: 'Noto Sans JP';
+    font-weight: 700;
+    margin-right: 20px;
+} 
+
+.warnacarousel{
+    background-color: rgb(211, 211, 211);
+}
+
+.content{
+    margin-right: 70px;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+
+.isitext{
+    font-family: 'Noto Sans JP';
+    font-weight: 300;
+}
+
+hr.style5 {
+	background-color: #fff;
+	border-top: 2px dashed #8c8b8b;
+}
+
+h1.tengah2{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Noto Sans JP';
+    font-weight: 700;
+}
+
+p.besar{
+    text-align: center;
+    font-family: 'Noto Sans JP';
+    font-weight: 700;
+    font-size: 30px;
+}
+p.kecil{
+    text-align: center;
+    font-family: 'Noto Sans JP';
+    font-weight: 30;
+    font-size: 24px;
+}
+
+.posting{
+    height:250px;
+    width:160px;
+    margin: 5px;
+    background-color:#ffffff;
+    border-radius: 10px;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.123), 0 1px 5px 0 rgba(0, 0, 0, 0.151);
+    display: inline-block;
+}
+
+.gambar{
+    height:160px;
+    width:160px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+.text{
+    height:90px;
+    width:160px;
+    display: inline-block;
+    margin-top: -10px;
+    padding:5px;
+    text-align: left;
+}
+
+
+
+.judul {
+    width:130px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: block;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    font-family: 'Noto Sans JP';
+    font-weight: 700;
+    font-size: 12px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color:#000000b0;
+}
+
+span.harga{
+    font-family: 'Noto Sans JP';
+    font-weight: 100;
+    font-size: 11px;
+    color:#525252;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+a.linkposting{
+    text-decoration:none;
+    color:#ffffff;
+}
+
+.wrapline{
+    height:300px;
+    width:100%;
+}
+
+span.hargapost{
+    font-family: 'Noto Sans JP';
+    font-weight: 700;
+    font-size: 16px;
+    color:rgb(250, 89, 29);
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+p.descpost{
+    font-family: 'Noto Sans JP';
+    font-weight: 100;
+    font-size: 18px;
+    color:rgb(0, 0, 0);;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-align:justify;
+}

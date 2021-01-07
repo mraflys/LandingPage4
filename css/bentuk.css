@@ -1,0 +1,62 @@
+#navbar {
+    background-color: #333;
+    position: fixed;
+    top: -50px;
+    width: 100%;
+    display: block;
+    transition: top 0.3s;
+  }
+
+a#showup{
+  background-color: rgb(245, 102, 102);
+  transition: all .2s ease-in-out;
+  color: white;
+}
+
+a#showup:hover{
+  background-color: rgb(218, 30, 30);
+  transform: scale(1.1);
+}
+
+#slideupdown{
+  display: none;
+}
+
+.wraper{
+  width: 100%;
+  height: 100%;
+  
+}
+
+.tengah{
+  text-align: center;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.posttengah{
+  width: 300px;
+  height: 300px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.fromlogin{
+  width: 50%;
+  height: 50%;
+  background-color:#ffffff;
+  padding: 10px;
+  margin: auto;
+  margin-top: 10%;
+  border-radius: 10px;
+}
+
+.borderpost{
+  margin: 25px;
+}
+
+.wrapertengah{
+  text-align: center;
+}
